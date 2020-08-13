@@ -1,0 +1,10 @@
+Zlatergo petit navigateur web de poche,
+Ceci n'est que la première version.
+Veuillez être indulgents.
+
+Version 1.0
+
+Il est interdit de recopier Zlatergo
+
+© 2017 François M
+http://francoism.esy.es/
